@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chartview_left_padding">48dp</dimen>
+    <dimen name="chartview_bottom_padding">32dp</dimen>
+    <dimen name="chartview_top_padding">16dp</dimen>
+    <dimen name="chartview_bar_width">24dp</dimen>
+    <dimen name="chartview_bar_spacing">24dp</dimen>
+    <dimen name="chartview_min_height">64dp</dimen>
+    <dimen name="chartview_x_axis_text_size">10sp</dimen>
+    <color name="chartview_x_axis_text_color">@color/black</color>
+    <dimen name="chartview_y_axis_text_size">10sp</dimen>
+    <color name="chartview_y_axis_text_color">@color/black</color>
+    <color name="chartview_bar_color">@color/teal_700</color>
+    <dimen name="chartview_bar_text_size">8sp</dimen>
+    <color name="chartview_bar_text_color">@color/black</color>
+    <integer name="chartview_num_gridlines">6</integer>
+    <color name="chartview_grid_line_color">@color/black</color>
+</resources>
